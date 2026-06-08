@@ -46,7 +46,7 @@
 
 1. Клонируй репозиторий:
    ```
-   git clone https://github.com/YOUR_USERNAME/seoassis.git
+   git clone https://github.com/q-kos/seoassis.git
    cd seoassis
    ```
 2. Создай файл `.env` в корне проекта:
